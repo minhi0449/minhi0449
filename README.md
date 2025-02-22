@@ -1,10 +1,7 @@
 <h1 align="center">👋Minhee Kim Profile!</h1>
 
-<p align="center">🌱 A passionate <strong>Junior Developer</strong> eager to learn and grow in the tech world.</p>
-<p align="center">🔭 Currently exploring <strong>[Your Interest Areas, e.g., Web Development, Machine Learning, etc.]</strong>.</p>
-<p align="center">💻 Always excited to work on innovative projects and improve my skills!</p>
-
 <hr/>
+
 
 <h2>🛠 Tech Stack</h2>
 
