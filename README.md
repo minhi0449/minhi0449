@@ -1,4 +1,7 @@
 <h1 align="center">👋 Minhee Kim Profile!</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=200&color=000000&width=435&lines=%F0%9F%85%B7%F0%9F%85%B4%F0%9F%85%BB%F0%9F%85%BB%F0%9F%85%BE+%F0%9F%86%86%F0%9F%85%BE%F0%9F%86%81%F0%9F%85%BB%F0%9F%85%B3+%E2%86%B5" alt="Typing SVG" /></a>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0076f8&width=435&lines=Hello+World!+2D%EC%97%90%EC%84%9C+0%EA%B3%BC+1%EC%9D%98+%EC%84%B8%EA%B3%84%EB%A1%9C+%F0%9F%8C%8E" alt="Typing SVG" /></a>
 
 <hr/>
