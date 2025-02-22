@@ -1,4 +1,5 @@
 <h1 align="center">👋 Minhee Kim Profile!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0076f8&width=435&lines=Hello+World!+2D%EC%97%90%EC%84%9C+0%EA%B3%BC+1%EC%9D%98+%EC%84%B8%EA%B3%84%EB%A1%9C+%F0%9F%8C%8E" alt="Typing SVG" /></a>
 
 <hr/>
 <h2>🛠 사용 기술</h2>
