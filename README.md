@@ -1,10 +1,5 @@
 <h1 align="center">👋 Minhee Kim Profile!</h1>
 
-<h2>💻 Operating Systems</h2>
-<div align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-</div>
 <hr/>
 <h2>🛠 Tech Stack</h2>
 
@@ -15,6 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="JPA" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
   <img src="https://img.shields.io/badge/Thymeleaf-005F99?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
@@ -23,7 +19,7 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="JPA" />
+
 </div>
 
 <h2>🔧 Tools I Use</h2>
