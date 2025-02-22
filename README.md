@@ -41,23 +41,11 @@
 
 <hr/>
 
+
+
 <div align="center" style="margin: 30px 0;">
-    <h2 style="background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-size: 2.5em; 
-               font-family: 'Arial', sans-serif;">
-        🏅 Stats
-    </h2>
-    <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <!-- GitHub Stats 카드 -->
-        <img src="https://github-readme-stats.vercel.app/api?username=minhi0449&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
-             alt="GitHub Stats" 
-             style="width: 495px; height: 195px;">
-        
-        <!-- 많이 사용한 언어 카드 -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhi0449&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
-             alt="Top Languages" 
-             style="width: 400px; height: 195px;">
+    <h2 style="background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%); -webkit-background-clip: text; color: transparent; font-size: 2.5em; font-family: 'Arial', sans-serif;">🏅 Stats</h2>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=minhi0449&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" alt="GitHub Stats" style="margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhi0449&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" alt="Top Languages" style="margin: 10px;">
     </div>
-</div>
