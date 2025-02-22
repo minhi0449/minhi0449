@@ -1,11 +1,11 @@
 <h1 align="center">👋 Minhee Kim Profile!</h1>
 
-<h3>💻 Operating Systems</h3>
-<div align="center">
+<h2>💻 Operating Systems</h2>
+<div align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
 </div>
-
+<hr/>
 <h2>🛠 Tech Stack</h2>
 
 <div align="center">
