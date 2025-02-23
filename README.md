@@ -16,12 +16,12 @@
 <h2>🔍 프로젝트 </h2>
 <div align="center">
   
-| **작업 기한** | **프로젝트 명** | **기술 스택** | **링크** | **시연 영상** |
+| **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
 |:---:|:---:|:---:|:---:|:---:|
-| 25.01.20 ~ 진행중 | 전자거래 중고거래 플랫폼 프로젝트 | Java / Flutter / SpringBoot / MyBatis | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) | [▶️](https://github.com/minhi0449/antwork) |
-| 25.01.20 ~ 진행중 | A+ market 중고거래 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | [🔗](https://github.com/jin123346/APPlusMarket_BE) | [▶️](https://github.com/minhi0449/antwork) |
-| 24.11.16 ~ 24.12.26 | 사내 커뮤니티 게시판 사이트 | Java / React / SpringBoot / JPA | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
-| 24.10.18 ~ 24.11.15 | 롯데e-커머스 LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA | [🔗](https://github.com/minhi0446/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
+| 25.01.20 ~ 진행중 | 전자거래 중고거래 플랫폼 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 거래(결제/충전) | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) | [▶️](https://github.com/minhi0449/antwork) |
+| 25.01.20 ~ 진행중 | A+ market 중고거래 앱 프로젝트 | Java / Flutter / SpringBoot / MyBatis | 거래(결제/충전) |[🔗](https://github.com/jin123346/APPlusMarket_BE) | [▶️](https://github.com/minhi0449/antwork) |
+| 24.11.16 ~ 24.12.26 | 사내 커뮤니티 게시판 사이트 | Java / React / SpringBoot / JPA | 게시판 |[🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
+| 24.10.18 ~ 24.11.15 | 롯데e-커머스 LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA | 회원 |[🔗](https://github.com/minhi0446/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
 
 </div>
 
