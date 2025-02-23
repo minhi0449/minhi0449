@@ -1,6 +1,6 @@
 <h2 align="center">☀️ 좋은 아침, 좋은 점심, 좋은 저녁입니다 .ᐟ</h2>
 
-<span>💬 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=24&duration=4000&pause=500&color=000000&width=1000&lines=%EC%A2%8B%EC%9D%80+%ED%95%98%EB%A3%A8%EC%9E%85%EB%8B%88%EB%8B%A4.%E1%90%9F+%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EC%84%B1%EC%9E%A5%ED%95%98%EB%A9%B0+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%E3%80%8C%EA%B9%80%EB%AF%BC%ED%9D%AC%E3%80%8D+%EC%9E%85%EB%8B%88%EB%8B%A4.+" alt="Typing SVG" /></a></span>
+<p>💬 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=24&duration=4000&pause=500&color=000000&width=1000&lines=%EC%A2%8B%EC%9D%80+%ED%95%98%EB%A3%A8%EC%9E%85%EB%8B%88%EB%8B%A4.%E1%90%9F+%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EC%84%B1%EC%9E%A5%ED%95%98%EB%A9%B0+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%E3%80%8C%EA%B9%80%EB%AF%BC%ED%9D%AC%E3%80%8D+%EC%9E%85%EB%8B%88%EB%8B%A4.+" alt="Typing SVG" /></a></p>
 
 <hr/>
 <h3>🛠 사용 기술</h3>
