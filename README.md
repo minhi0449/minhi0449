@@ -36,7 +36,7 @@
   <!-- 데이터베이스 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <!-- 관계형 데이터베이스 -->
 
-  <//br>
+  </br>
   
   <!-- 클라우드 서비스 -->
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
