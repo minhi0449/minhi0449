@@ -21,6 +21,15 @@
 
 </div>
 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔍 Projects Overview </h2> <br> 
+
+| **작업 기한**        | **프로젝트 명**                     | **링크**  |
+|-----------------|-------------------------------|-------|
+| 24.01.20 ~ 진행중   | 전자거래 중고거래 플랫폼 프로젝트 | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) |
+| 24.01.20 ~ 진행중   | A+ market 중고거래 앱 프로젝트 | [🔗](https://github.com/jin123346/APPlusMarket_BE) |
+| 24.11.16 ~ 24.12.26 | 사내 커뮤니티 게시판 사이트     | [🔗](https://github.com/minhi0449/antwork) |
+| 24.10.18~24.11.15 | 롯데e-커머스 LOTTE ON 쇼핑몰            | [🔗](https://github.com/minhi0449/TeamProject-LotteOn3) |
+
 
 
 
