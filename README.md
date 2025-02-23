@@ -4,34 +4,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=500&duration=4000&pause=500&color=000000&width=565&lines=%F0%9F%A4%9D+%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EC%84%B1%EC%9E%A5%ED%95%98%EB%A9%B0%2C+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%E3%80%8C+%EA%B9%80%EB%AF%BC%ED%9D%AC+%E3%80%8D%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
 </div>
 
-
-<br/>
-
-
 <h2>🧤나의 정보</h2>
 <div align="center">
-
-<!-------------------------------- Social Links Table -------------------------------->
-
 | **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **개발 컨텐츠** |
 |:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
 | <a href="mailto:minhi0449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://autulatu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/minhi0449?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
-
-<!------------------------------------------------------------------------------>
-
 </div>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔍 Projects Overview </h2> <br> 
-
 | **작업 기한**        | **프로젝트 명**                     | **링크**  |
 |-----------------|-------------------------------|-------|
 | 25.01.20 ~ 진행중   | 전자거래 중고거래 플랫폼 프로젝트 | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) |
 | 25.01.20 ~ 진행중   | A+ market 중고거래 앱 프로젝트 | [🔗](https://github.com/jin123346/APPlusMarket_BE) |
 | 24.11.16 ~ 24.12.26 | 사내 커뮤니티 게시판 사이트     | [🔗](https://github.com/minhi0449/antwork) |
 | 24.10.18~24.11.15 | 롯데e-커머스 LOTTE ON 쇼핑몰            | [🔗](https://github.com/minhi0449/TeamProject-LotteOn3) |
-
-
-
 
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
