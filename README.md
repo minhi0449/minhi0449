@@ -7,7 +7,6 @@
 </div>
 
 
-<hr/>
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
 <div align="center">
@@ -46,7 +45,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" /> <!-- 협업 도구 -->
 </div>
 
-<hr/>
 
 <h2>🏅 통계 보기</h2>
 <div align="center" style="margin: 30px 0;">
