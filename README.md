@@ -6,8 +6,6 @@
 팀과 함께 성장하며 가치를 만들어가는 개발자 「김민희」 입니다.
 </div>
 
-<hr/>
-<p>💬 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=24&duration=4000&pause=500&color=000000&width=1000&lines=%EC%A2%8B%EC%9D%80+%ED%95%98%EB%A3%A8%EC%9E%85%EB%8B%88%EB%8B%A4.%E1%90%9F+%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EC%84%B1%EC%9E%A5%ED%95%98%EB%A9%B0+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%E3%80%8C%EA%B9%80%EB%AF%BC%ED%9D%AC%E3%80%8D+%EC%9E%85%EB%8B%88%EB%8B%A4.+" alt="Typing SVG" /></a></p>
 
 <hr/>
 <h2>🛠 사용 기술</h2>
@@ -58,14 +56,5 @@
   </div>
 </div>
 
-<h2>🏅 통계 보기</h2>
-<div align="center" style="margin: 30px 0;">
-    <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
-        <img src="https://github-readme-stats.vercel.app/api?username=minhi0449&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" alt="GitHub Stats">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhi0449&layout=donut&cache_seconds=1800&v=1&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" 
-                 alt="Top Languages">
-        </a>
-    </div>
-</div>
+
 
