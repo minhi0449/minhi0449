@@ -6,45 +6,22 @@
 팀과 함께 성장하며 가치를 만들어가는 개발자 「김민희」 입니다.
 </div>
 
-<!-- 소셜 미디어 뱃지 모음 -->
-<table>
-  <tr>
-    <!-- 유튜브 채널: 개발 관련 영상 공유 -->
-    <td>
-      <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> <!-- 김민희님의 유튜브 채널 -->
-      </a>
-    </td>
-    
-    <!-- GitHub 레포지토리: 프로젝트 및 코드 저장소 -->
-    <td>
-      <a href="https://github.com/minhi0449?tab=repositories">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <!-- minhi0449의 GitHub 레포지토리 -->
-      </a>
-    </td>
-    
-    <!-- 티스토리 블로그: 개발 관련 글 포스팅 -->
-    <td>
-      <a href="https://autulatu.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" /> <!-- autulatu 티스토리 블로그 -->
-      </a>
-    </td>
-    
-    <!-- Gmail: 이메일 연락처 -->
-    <td>
-      <a href="mailto:minhi0449@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> <!-- 이메일: minhi0449@gmail.com -->
-      </a>
-    </td>
-    
-    <!-- Notion: 이력서 페이지 -->
-    <td>
-      <a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /> <!-- 노션 이력서 페이지 -->
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Social Links -->
+<a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://github.com/minhi0449?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://autulatu.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
+</a>
+<a href="mailto:minhi0449@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</a>
 
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
