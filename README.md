@@ -11,7 +11,12 @@
 <!-- Social Links Table -->
 | **개발 컨텐츠** | **프로젝트 저장소** | **기술 블로그** | **이메일** | **포트폴리오** |
 |:--------------:|:------------------:|:--------------:|:----------:|:-------------:|
-| <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> | <a href="https://github.com/minhi0449?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://autulatu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="mailto:minhi0449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> |
+| <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> | <a href="https://github.com/minhi0449?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4B6AFF?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://autulatu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF4C46?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="mailto:minhi0449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" /></a> |
+
+
+
+
+
 
 
 <h2>🛠 사용 기술</h2>
