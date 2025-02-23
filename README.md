@@ -50,6 +50,9 @@
 
 <hr/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=minhi0449&custom_title=김민희%27s%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhi0449&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
+
 
 <h2>🏅 통계 보기</h2>
 <div align="center" style="margin: 30px 0;">
