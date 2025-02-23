@@ -16,12 +16,12 @@
 <h2>🔍 프로젝트 </h2>
 <div align="center">
   
-| **작업 기한** | **프로젝트 명** | **링크** |
-|:---:|:---:|:---:|
-| 25.01.20 ~ 진행중 | 전자거래 중고거래 플랫폼 프로젝트 |[🔗](https://github.com/jin123346/APPlusMarket_Flutter) |
-| 25.01.20 ~ 진행중 | A+ market 중고거래 앱 프로젝트 |[🔗](https://github.com/jin123346/APPlusMarket_BE) |
-| 24.11.16 ~ 24.12.26 | 사내 커뮤니티 게시판 사이트 |[🔗](https://github.com/minhi0449/antwork) |
-| 24.10.18 ~ 24.11.15 | 롯데e-커머스 LOTTE ON 쇼핑몰 |[🔗](https://github.com/minhi0446/TeamProject-LotteOn3) |
+| **작업 기한** | **프로젝트 명** | **기술 스택** | **링크** |
+|:---:|:---:|:---:|:---:|
+| 25.01.20 ~ 진행중 | 전자거래 중고거래 플랫폼 프로젝트 | Java / SpringBoot / MyBatis |[🔗](https://github.com/jin123346/APPlusMarket_Flutter) |
+| 25.01.20 ~ 진행중 | A+ market 중고거래 앱 프로젝트 | Java / SpringBoot / MyBatis |[🔗](https://github.com/jin123346/APPlusMarket_BE) |
+| 24.11.16 ~ 24.12.26 | 사내 커뮤니티 게시판 사이트 | Java / SpringBoot / JPA |[🔗](https://github.com/minhi0449/antwork) |
+| 24.10.18 ~ 24.11.15 | 롯데e-커머스 LOTTE ON 쇼핑몰 | Java / SpringBoot / JPA |[🔗](https://github.com/minhi0446/TeamProject-LotteOn3) |
 
 </div>
 
