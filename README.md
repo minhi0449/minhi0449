@@ -9,10 +9,10 @@
 <br/>
 
 <!-- Social Links Table -->
-| **YouTube** | **My Repo** | **Tistory** | **Gmail** | **Notion** |
-|-------------|-------------|--------------|-----------|------------|
-| <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> | <a href="https://github.com/minhi0449?tab=repositories"><img src="https://img.shields.io/badge/My_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="My Repository" /></a> | <a href="https://autulatu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" /></a> | <a href="mailto:minhi0449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> | <a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a> |
-| 유튜브 아이콘 (클릭 시 링크 연결) | my repo 아이콘 (클릭 시 링크 연결) | Tistory 아이콘 (클릭 시 링크 연결) | Gmail 아이콘 (클릭 시 링크 연결) | Notion 아이콘 (클릭 시 링크 연결) |
+| **개발 컨텐츠** | **프로젝트 저장소** | **기술 블로그** | **이메일** | **포트폴리오** |
+|:--------------:|:------------------:|:--------------:|:----------:|:-------------:|
+| <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a> | <a href="https://github.com/minhi0449?tab=repositories"><img src="https://img.shields.io/badge/Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://autulatu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="mailto:minhi0449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> |
+
 
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
