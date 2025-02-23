@@ -9,7 +9,7 @@
 
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <!-- 웹 구조 언어 -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <!-- 웹 스타일링 언어 -->
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" /> <!-- 자바 빌드 도구 -->
 </div>
 
-<h2>🔧 개발 도구</h2>
+<h2align="center">🔧 개발 도구</h2>
 <div>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" /> <!-- 자바 IDE -->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <!-- 통합 개발 환경 -->
