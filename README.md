@@ -6,12 +6,14 @@
 
 <h2>🧤나의 정보</h2>
 <div align="center">
+  
 | **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **개발 컨텐츠** |
 |:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
 | <a href="mailto:minhi0449@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.notion.so/19d26d451b22805bac63e1649e460d07"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://autulatu.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/minhi0449?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://www.youtube.com/@%EA%B9%80%EB%AF%BC%ED%9D%AC-f4y"><img src="https://img.shields.io/badge/YouTube-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
 </div>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔍 Projects Overview </h2> <br> 
+
 | **작업 기한**        | **프로젝트 명**                     | **링크**  |
 |-----------------|-------------------------------|-------|
 | 25.01.20 ~ 진행중   | 전자거래 중고거래 플랫폼 프로젝트 | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) |
