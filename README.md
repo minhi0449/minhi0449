@@ -1,9 +1,6 @@
-<h3 align="center">☼ 좋은 아침, 좋은 점심, 좋은 저녁입니다 .ᐟ </h3>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=500&duration=4000&pause=1993&color=000000&center=true&vCenter=true&multiline=true&random=true&width=565&lines=%F0%9F%A4%9D+%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EC%84%B1%EC%9E%A5%ED%95%98%EB%A9%B0%2C+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%E3%80%8C+%EA%B9%80%EB%AF%BC%ED%9D%AC+%E3%80%8D%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
-
+  <h3 align="center">☼ 좋은 아침, 좋은 점심, 좋은 저녁입니다 .ᐟ </h3>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=500&duration=4000&pause=1993&color=000000&center=true&vCenter=true&multiline=true&random=true&width=565&lines=%F0%9F%A4%9D+%ED%8C%80%EA%B3%BC+%ED%95%A8%EA%BB%98+%EC%84%B1%EC%9E%A5%ED%95%98%EB%A9%B0%2C+%EA%B0%80%EC%B9%98%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%E3%80%8C+%EA%B9%80%EB%AF%BC%ED%9D%AC+%E3%80%8D%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 </div>
 
 <h2>🧤나의 정보</h2>
