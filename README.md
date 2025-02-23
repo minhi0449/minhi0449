@@ -36,8 +36,6 @@
   <!-- 데이터베이스 -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <!-- 관계형 데이터베이스 -->
 
-  </br>
-  
   <!-- 클라우드 서비스 -->
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
   
@@ -58,7 +56,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-177cda?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-ff1d4f?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white&color=ff1d4f" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
