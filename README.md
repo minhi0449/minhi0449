@@ -44,7 +44,7 @@
   <!-- 개발 도구 및 라이브러리 -->
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="JPA" /> <!-- 자바 ORM 표준 -->
   <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="JSP" /> <!-- 자바 서버 페이지 -->
-  <img src="https://img.shields.io/badge/Thymeleaf-005F99?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" /> <!-- 자바 템플릿 엔진 -->
+  <img src="https://img.shields.io/badge/Thymeleaf-275d1e?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" /> <!-- 자바 템플릿 엔진 -->
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON" /> <!-- 데이터 교환 형식 -->
   <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=MyBatis&logoColor=white" alt="MyBatis" /> <!-- SQL 매핑 프레임워크 -->
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /> <!-- 자바 ORM 프레임워크 -->
