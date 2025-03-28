@@ -55,7 +55,7 @@
 
 <h2>🔧 개발 도구</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Eclipse-2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-IDE2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-177cda?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-111317?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" />
