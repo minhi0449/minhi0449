@@ -37,8 +37,9 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot"> <!-- 자바 웹 프레임워크 -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"> <!-- 프론트엔드 프레임워크 -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <!-- 크로스 플랫폼 프레임워크 -->
-  <!-- 데이터베이스 -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <!-- 관계형 데이터베이스 -->
+  
+  <!-- 데이터베이스 DB -->
+  <img src="https://img.shields.io/badge/MySQL-1B3F5B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <!-- 관계형 데이터베이스 RDBMS : MySQL -->
   <!-- 클라우드 서비스 -->
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
   <!-- 개발 도구 및 라이브러리 -->
