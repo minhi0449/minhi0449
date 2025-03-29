@@ -42,6 +42,7 @@
   <!-- 클라우드 서비스 AWS -->
   <img src="https://img.shields.io/badge/Amazon_AWS-EF880F?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"> <!-- 클라우드 서비스 -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   <!-- 개발 도구 및 라이브러리 -->
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="JPA" /> <!-- 자바 ORM 표준 -->
   <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="JSP" /> <!-- 자바 서버 페이지 -->
