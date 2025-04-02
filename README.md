@@ -26,6 +26,11 @@
 </div>
 
 <h2>🛠 사용 기술</h2>
+<!-- JSP - Apache Tomcat 로고 사용 -->
+<img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=apache-tomcat&logoColor=white" alt="JSP" />
+
+<!-- MyBatis - Apache 로고 사용 -->
+<img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=apache&logoColor=white" alt="MyBatis" />
 <!-- 프로그래밍 언어 -->
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
