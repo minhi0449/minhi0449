@@ -26,11 +26,6 @@
 </div>
 
 <h2>🛠 사용 기술</h2>
-<!-- JSP - Apache Tomcat 로고 사용 -->
-<img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=apache-tomcat&logoColor=white" alt="JSP" />
-
-<!-- MyBatis - Apache 로고 사용 -->
-<img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=apache&logoColor=white" alt="MyBatis" />
 <!-- 프로그래밍 언어 -->
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
@@ -48,10 +43,10 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-EF880F?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS/"> <!-- 클라우드 서비스 -->
   <!-- 개발 도구 및 라이브러리 -->
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="JPA" /> <!-- 자바 ORM 표준 -->
-  <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="JSP" /> <!-- 자바 서버 페이지 -->
+    <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=apache-tomcat&logoColor=white" alt="JSP" /> <!-- 자바 서버 페이지(JSP) : Apache Tomcat 로고 사용 -->
   <img src="https://img.shields.io/badge/Thymeleaf-275d1e?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" /> <!-- 자바 템플릿 엔진 -->
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON" /> <!-- 데이터 교환 형식 -->
-  <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=MyBatis&logoColor=white" alt="MyBatis" /> <!-- SQL 매핑 프레임워크 -->
+  <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=apache&logoColor=white" alt="MyBatis" /> <!-- SQL 매핑 프레임워크(MyBatis) : Apache 로고 사용 -->
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /> <!-- 자바 ORM 프레임워크 -->
   <!-- 빌드 도구 -->
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" alt="Maven" /> <!-- 자바 빌드 도구 -->
