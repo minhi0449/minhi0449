@@ -53,36 +53,6 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" /> <!-- 자바 빌드 도구 -->
 </div>
 
-<h2>🛠 사용 기술</h2>
-<!-- 프로그래밍 언어 -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <!-- 백엔드 핵심 언어 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <!-- 웹 구조 언어 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <!-- 웹 스타일링 언어 -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <!-- 웹 동작 언어 -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <!-- Flutter 전용 언어 -->
-  <!-- 프레임워크 -->
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot"> <!-- 자바 웹 프레임워크 -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"> <!-- 프론트엔드 프레임워크 -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <!-- 크로스 플랫폼 프레임워크 -->
-  <!-- 데이터베이스 DB -->
-  <img src="https://img.shields.io/badge/MySQL-2C6491?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <!-- 관계형 데이터베이스 RDBMS : MySQL -->
-  <!-- 클라우드 서비스 AWS -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-EF880F?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS/"> <!-- 클라우드 서비스 -->
-  <!-- 개발 도구 및 라이브러리 -->
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="JPA" /> <!-- 자바 ORM 표준 -->
-  <!-- JSP 로고 추가 (Base64 인코딩 사용) -->
-  <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABb0lEQVQ4y52TTytFURTFf+e+MfIxkAGFgZSUmYGSgYEyMVHKwMRIKQMDJWVm4h/gfYwoH0MxMeO/MJga3LP2Pve+d+6zutc5e6+z9tpn38TY3PxPuYnACVE2MAHkg3SxCLs7MGSzMNwBYQiNJihJYUAcQKVh/BPs7YOWBDSkk9B+BF83YFX2nYGyAdYGhoOWlHy3t+zOCuQmHWwVxOXxDGwmZ0D6FWjxHZTPYWoDWl+h9gYNpGzEQawFLHCIdDTk1JKsQXcXHB6NWlwuL6H6G1bL4MnRLiwBKpnA4TF0tUPMAMenzt6/gHEfYEQoXDhgOTkDUwOYGnTuoQ9K0R4ULO1BflYHxMZh6gQaq7B4Dpc3o+X/Bn7+hLNrMLUF1VvIBrB0F+UFKF7Cxj7c2AyRtEb0jvLpNpyXoNIGGXtx0oKHD3BVhptHHzjR0v7iqx+evfFtg5jAyIgN4xCr5T1L0gC+PsCTPVdvP2H2p78AdQWThcIjitEAAAAASUVORK5CYII=&logoColor=white" alt="JSP" /> <!-- 자바 서버 페이지 -->
-  <img src="https://img.shields.io/badge/Thymeleaf-275d1e?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" /> <!-- 자바 템플릿 엔진 -->
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON" /> <!-- 데이터 교환 형식 -->
-  <!-- MyBatis 로고 추가 (Base64 인코딩 사용) -->
-  <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAAA10lEQVQ4jdXSvUoDQRQF4G/iD6KCiGB6LQQrC1/CQjsfQBDs7HwACwtLSxuLgJJSLLTyFWysBAsLEbQRbUTxZ7PsZrYQwTpn5t47Z+4wc7nLKnFFjZNdz9UXsC6+jbF1HGEd02jjEY94y7bDwFnlWVxgIYcvYQcLmEoZpfAQiLJJBNXAyaLGPZYxg2ns4j4GxcDTmGeKA+xlnDZOY1F5COjk6HJcJo3/DujjJnHW3AAvcbeJj5T/jVec4xmfOeWYHBVqnLdaLRxiGRPBs5fw8oMf8xNu4w6NwD4dYUAzHAAAAABJRU5ErkJggg==&logoColor=white" alt="MyBatis" /> <!-- SQL 매핑 프레임워크 -->
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /> <!-- 자바 ORM 프레임워크 -->
-  <!-- 빌드 도구 -->
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white" alt="Maven" /> <!-- 자바 빌드 도구 -->
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" /> <!-- 자바 빌드 도구 -->
-</div>
-
 <h2>🔧 개발 도구</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse_IDE-2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
