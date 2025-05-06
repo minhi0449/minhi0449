@@ -64,6 +64,16 @@
   <img src="https://img.shields.io/badge/Android%20Studio-30bd88?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
 
+<img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/python?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/kotlin?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/dart?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/r?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/swift?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/julia?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/haskell?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/clojure?viewbox=auto" />
+
 <h2>📊 GitHub 통계</h2>
 <div align="center" style="margin: 30px 0;">
   <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
