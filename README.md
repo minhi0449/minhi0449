@@ -37,12 +37,15 @@
 </div>
 
 ## 🔍 프로젝트
-
+<div align="center">
+  
 | 작업 기한 | 프로젝트 명 | 기술 스택 | 담당 기능 | 링크 | 시연 영상 |
 |:--------:|:------------:|:---------:|:----------:|:-----:|:----------:|
 | 25.01.20 ~ 25.03.07 (6주) | [A+ market] 중고거래 앱 프로젝트 | <span><img height="18" src="https://cdn.simpleicons.org/java" /> <img height="18" src="https://cdn.simpleicons.org/flutter" /> <img height="18" src="https://cdn.simpleicons.org/springboot" /> <img height="18" src="https://cdn.simpleicons.org/mybatis" /></span> | 거래(결제/충전) | [🔗](https://github.com/jin123346/APPlusMarket_Flutter) | [▶️](https://github.com/minhi0449/antwork) |
 | 24.11.18 ~ 24.12.26 (6주) | [Antwork] 그룹웨어 웹 프로젝트 | <span><img height="18" src="https://cdn.simpleicons.org/java" /> <img height="18" src="https://cdn.simpleicons.org/react" /> <img height="18" src="https://cdn.simpleicons.org/springboot" /> <img height="18" src="https://cdn.simpleicons.org/jakartaee" /></span> | 게시판 | [🔗](https://github.com/minhi0449/antwork) | [▶️](https://www.youtube.com/watch?v=EtwH4WvMnJo) |
 | 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | <span><img height="18" src="https://cdn.simpleicons.org/java" /> <img height="18" src="https://cdn.simpleicons.org/springboot" /> <img height="18" src="https://cdn.simpleicons.org/jakartaee" /></span> | 회원 | [🔗](https://github.com/minhi0449/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
+
+</div>
 
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
