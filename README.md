@@ -13,6 +13,15 @@
 </div>
 
 
+<span>
+  <img height="18" src="https://cdn.simpleicons.org/java" />
+  <img height="18" src="https://cdn.simpleicons.org/react" />
+  <img height="18" src="https://cdn.simpleicons.org/springboot" />
+  <img height="18" src="https://cdn.simpleicons.org/jakartaee" />
+  <img height="18" src="https://cdn.simpleicons.org/flutter" />
+  <img height="18" src="https://cdn.simpleicons.org/dart" />
+</span>
+
 <h2>🔍 프로젝트 </h2>
 <div align="center">
   
