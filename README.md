@@ -26,8 +26,9 @@
 </div>
 
 
-![java-logo](https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac)
 
+<!-- 마크다운 내 HTML 방식 -->
+<img src="https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac" height="18" />
 
 <h2>🔍 프로젝트 </h2>
 <div align="center">
