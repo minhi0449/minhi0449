@@ -27,7 +27,7 @@
 
 
 
-
+<!-- 프로젝트 담당기능 아이콘
 ## 🔍 프로젝트
 <div align="center">
   
@@ -38,6 +38,7 @@
 | 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | <span><img src="https://github.com/user-attachments/assets/d905b76d-37b7-424d-8792-3aef65528aac" height="18" alt="Java" /> <img height="18" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot" /></span> | 회원 | [🔗](https://github.com/minhi0449/TeamProject-LotteOn3) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
 </div>
 
+-->
 
 <h2>🛠 사용 기술</h2>
 <!-- 프로그래밍 언어 -->
