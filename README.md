@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /> <!-- Flutter 전용 언어 -->
   <!-- 프레임워크 -->
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot"> <!-- 자바 웹 프레임워크 -->
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"> <!-- 프론트엔드 프레임워크 -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <!-- 크로스 플랫폼 프레임워크 -->
   <!-- 데이터베이스 DB -->
