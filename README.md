@@ -23,6 +23,12 @@
 | 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA | 회원 | [🔗](https://github.com/greenlotte4/team2-lotteon-project) | [▶️](https://www.youtube.com/watch?v=rM2Cj0PMg1Q) |
 
 
+| **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 25.01.20 ~ 25.03.07 (6주) | A+ market 중고거래 앱 프로젝트 | Java, Flutter, SpringBoot, MyBatis | 거래(결제/충전) | <a href="https://github.com/jin123346/APPlusMarket_Flutter" target="_blank">🔗</a> | <a href="https://github.com/minhi0449" target="_blank">▶️</a> |
+| 24.11.18 ~ 24.12.26 (6주) | Antwork 그룹웨어 웹 프로젝트 | Java, React, SpringBoot, JPA | 게시판 | <a href="https://github.com/minhi0449/antwork" target="_blank">🔗</a> | <a href="https://www.youtube.com/watch?v=EtwH4WvMnJo&t=764s" target="_blank">▶️</a> |
+| 24.10.21 ~ 24.11.15 (5주) | 롯데 e-커머스 LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA | 회원 | <a href="https://github.com/greenlotte4/team2-lotteon-project" target="_blank">🔗</a> | <a href="https://www.youtube.com/watch?v=rM2Cj0PMg1Q" target="_blank">▶️</a> |
+
 </div>
 
 
