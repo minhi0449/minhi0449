@@ -71,8 +71,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse_IDE-2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-177cda?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-177cda?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-  alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-111317?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
