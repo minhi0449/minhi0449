@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="JPA" /> <!-- 자바 ORM 표준 -->
     <img src="https://img.shields.io/badge/JSP-E34F26?style=for-the-badge&logo=apache-tomcat&logoColor=white" alt="JSP" /> <!-- 자바 서버 페이지(JSP) : Apache Tomcat 로고 사용 -->
   <img src="https://img.shields.io/badge/Thymeleaf-275d1e?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" /> <!-- 자바 템플릿 엔진 -->
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON" /> <!-- 데이터 교환 형식 -->
+  <img src="https://img.shields.io/badge/JSON-161b22?style=for-the-badge&logo=JSON&logoColor=white" alt="JSON" /> <!-- 데이터 교환 형식 -->
   <img src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=apache&logoColor=white" alt="MyBatis" /> <!-- SQL 매핑 프레임워크(MyBatis) : Apache 로고 사용 -->
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /> <!-- 자바 ORM 프레임워크 -->
   <!-- 빌드 도구 -->
